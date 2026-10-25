@@ -4,12 +4,27 @@ const aiGovernanceImage =
     "/certificates/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20-%202025-12-07-17-21_page-0001.jpg";
 
 const certificates = [
+
+    {
+        title: "AWS Cloud Practitioner Essentials",
+        issuer: "Amazon Web Services (AWS)",
+        date: "October 23, 2026",
+        href: "/certificates/AWS%20Cloud%20Practitioner.pdf",
+        image: "/certificates/AWS%20Cloud%20Practitioner.jpg",
+    },
     {
         title: "AI Mini Hackathon 2026",
         issuer: "Bangkok University",
         date: "May 21, 2026",
         href: "/certificates/20.jpg",
         image: "/certificates/20.jpg",
+    },
+    {
+        title: "Penetration Testing",
+        issuer: "National Cyber Security Agency (NCSA)",
+        date: "May 12, 2026",
+        href: "/certificates/Certificate-Penetration-test.jpg",
+        image: "/certificates/Certificate-Penetration-test.jpg",
     },
     {
         title: "AWS Academy Graduate - Generative AI Foundations",
